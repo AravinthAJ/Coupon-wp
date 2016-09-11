@@ -1,0 +1,22 @@
+.summitad-wrap {
+    display: block !important;
+}
+
+.couponcode .copy {
+    border: 2px dashed #ff6200;
+    padding: 8px 20px 8px 40px;
+    border-radius: 5px;
+    color: #464646;
+    margin: 0 0 0 20px;
+    font-size: 16px;
+    font-family: 'Lora', Arial, Helvetica;
+    background: url(http://profitableblogging.com/img/discount.png) no-repeat 10px 8px;
+}
+.couponcode {
+    padding: 0 0 30px;
+    font-size: 18px;
+    margin: 0 0px 30px;
+}
+div {
+    display: block;
+}
